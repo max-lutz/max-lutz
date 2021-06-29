@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @max-lutz
 - 👀 I’m interested in data science, energy and environment and how to tackle climate change with data.
-- 🌱 I’m currently learning machine learning and web deployment of algorithms and pages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning machine learning and web deployment of algorithms and pages, aswell as data vizualisation
+- 📫 How to reach me max.lutz@edu.ece.fr
 
 <!---
 max-lutz/max-lutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
